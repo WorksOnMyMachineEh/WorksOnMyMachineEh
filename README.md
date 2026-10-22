@@ -44,29 +44,7 @@ I'm currently expanding my skills in:
 
 ---
 
-## Learning Roadmap
 
-### Foundation
-
-- [ ] Advanced Copilot
-- [ ] Power BI
-- [ ] SQL refresh
-- [ ] AI-900
-
-### Automation
-
-- [ ] Power Automate
-- [ ] Power Apps
-- [ ] Python
-
-### AI & Analytics
-
-- [ ] Copilot Studio
-- [ ] AI Agents
-- [ ] Azure AI
-- [ ] Microsoft Fabric
-
----
 
 ## Technical Experience
 
