@@ -1,5 +1,3 @@
-I would make it authentic, modest, and focused on where you're going, not what you studied 33 years ago.
-
 # Hi, I'm WorksOnMyMachineEh
 
 Business systems professional, analyst, administrator, and lifelong problem solver.
