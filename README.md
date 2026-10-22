@@ -23,7 +23,7 @@ Over the years I've worked with:
 - JSON and YAML configuration
 - Technical troubleshooting and user support
 
-I enjoy figuring out how systems work, imporoving processes, and using technology to solve practical business problems.
+I enjoy figuring out how systems work, improving processes, and using technology to solve practical business problems.
 
 I'm currently focused on expanding my skills in Power BI, AI, automation, SQL, Python, and Microsoft's Power Platform.
 
