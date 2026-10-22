@@ -18,11 +18,14 @@ Over the years I've worked with:
 - ERP systems and business process workflows
 - Advanced Excel and Power Query
 - MySQL databases
-- Server administration and plugin management
+- Server and platform administration
+- Plugin deployment and configuration
 - JSON and YAML configuration
 - Technical troubleshooting and user support
 
-I also have a CAD/CAM Engineering Technology diploma, which helped build the analytical and technical foundation that continues to influence how I approach problem-solving today.
+I enjoy figuring out how systems work, imporoving processes, and using technology to solve practical business problems.
+
+I'm currently focused on expanding my skills in Power BI, AI, automation, SQL, Python, and Microsoft's Power Platform.
 
 ---
 
@@ -78,10 +81,12 @@ I'm currently expanding my skills in:
 ### Systems & Administration
 
 - Server Administration
-- Plugin Management
-- JSON Configuration
-- YAML Configuration
-- Technical Troubleshooting
+- Platform Administration
+- Plugin deployment and configuration
+- JSON and YAML Configuration
+- MySQL Database Administration
+- User Support
+- System Maintenance and Upgrades
 
 ### Business Systems
 
